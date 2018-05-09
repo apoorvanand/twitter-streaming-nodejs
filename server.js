@@ -8,10 +8,10 @@ var twitter = require('twitter'),
 
 //Setup twitter stream api
 var twit = new twitter({
-  consumer_key: '<ENTER>',
-  consumer_secret: '<ENTER>',
-  access_token_key: '<ENTER>',
-  access_token_secret: '<ENTER>'
+  consumer_key: '2t0TVymMMJBPvjmKTYyHILexb',
+  consumer_secret: 'wF0j2ns1JleqsoNOGBtvvZ02BTzudF8yBTkYksZptcakrK8KQd',
+  access_token_key: '51658568-7YLQ6CF3v6SbSi20OHPJUvcwrbPtDvZOJ97UkDUzH',
+  access_token_secret: 'ZfsEeDJrr9LmsSH2fDYp1DSqWe1ClQZkWA89aXpaaKXzX'
 }),
 stream = null;
 
